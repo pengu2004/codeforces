@@ -13,6 +13,5 @@ last_end = 0
 for e, s in movies:
     if s >= last_end:
         count += 1
-        last_end = e
 
 print(count)
