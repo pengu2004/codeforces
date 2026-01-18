@@ -8,4 +8,5 @@ if start%7==0:
     print(7)
 else:
     print((start)%7)
+print(page_rate)
 
